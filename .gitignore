@@ -4,13 +4,12 @@ __MACOSX
 
 # Saved models
 models/
+tmp/
+saved/
 
 # Datasets
 data/
-*.csv
-*.png
 *.conllu
-*.txt
 *.parquet
 
 
